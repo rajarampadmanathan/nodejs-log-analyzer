@@ -1,0 +1,32 @@
+{
+  "name": "test-performance",
+  "version": "1.0.0",
+  "description": "",
+  "engines": {
+    "node": "6.6.0"
+  },
+  "main": "logAnalyzer.js",
+  "scripts": {
+  "start": "node logAnalyzer.js"
+  },
+  "author": "Rajaram",
+  "license": "MIT",
+  "dependencies": {
+    "app-root-path": "^1.4.0",
+    "body-parser": "^1.15.1",
+    "express": "^4.14.0",
+    "jsonschema": "^1.1.0",
+    "mime": "^1.3.4",
+    "mkdirp": "^0.5.1",
+    "moment": "^2.13.0",
+    "moment-timezone": "^0.5.4",
+	"router": "^1.1.4",
+	"finalhandler": "^0.5.1",
+	"compression": "^1.6.2",
+	"pug": "^2.0.0-alpha8",
+	"json2csv":"^3.7.3",
+	"child-process":"^1.0.2"
+    },
+  "devDependencies": {
+    }
+}

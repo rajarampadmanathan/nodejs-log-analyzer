@@ -27,5 +27,3 @@ Know Issues:
 
 Contacts:
 ------------
-
-- 1. Contact rajaram.p@hcl.com for any  issues/enhancement.
